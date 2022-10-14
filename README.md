@@ -5,9 +5,9 @@
 ## Description
 Sistema de mural eletrônico do acadêmico com a tecnologia php, mysql e bootstrap para a disciplina do seminário interdisciplinar da Universidade UNIASSELVI. O mesmo ainda apresenta uma interface simples desenvolvido com bootstrap e interação com jquery.
 ## Funcionalidade
-1 – Cadastros das apresentações dos acadêmicos;
-2 – Visualização das apresentações por ordem cronológica;
-3 – Contabilização das interações do botão gostei;
+- [x] Cadastros das apresentações dos acadêmicos;
+- [x] Visualização das apresentações por ordem cronológica;
+- [x] Contabilização das interações do botão gostei;
 
 ## Versões
 - php = 8.0.19
